@@ -1,6 +1,7 @@
 // src/components/Skills.js
 
 import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid";
+// import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/outline";
 import React from "react";
 import { skills } from "../data";
 

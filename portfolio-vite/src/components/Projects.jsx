@@ -1,6 +1,7 @@
 // src/components/Projects.js
 
-import { CodeIcon } from "@heroicons/react/solid";
+// import { CodeIcon } from "@heroicons/react/solid";
+ import { CodeIcon } from "@heroicons/react/outline";
 import React from "react";
 import { projects } from "../data";
 

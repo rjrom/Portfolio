@@ -2,6 +2,7 @@
 
 import React from "react";
 import { TerminalIcon, UsersIcon } from "@heroicons/react/solid";
+// import { TerminalIcon, UsersIcon } from "@heroicons/react/outline";
 import { testimonials } from "../data";
 
 export default function Testimonials() {
