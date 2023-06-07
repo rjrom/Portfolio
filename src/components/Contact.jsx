@@ -75,8 +75,7 @@ export default function Contact() {
                 Hire Me
               </h2>
               <p className="leading-relaxed mb-5">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-                suscipit officia aspernatur veritatis. Asperiores, aliquid?
+              As a passionate and eager learner, I'm actively seeking opportunities to grow and develop my skills. I would be honored to contribute to your projects and collaborate with your team in pursuit of excellence
               </p>
               <div className="relative mb-4">
                 <label htmlFor="name" className="leading-7 text-sm text-gray-400">
