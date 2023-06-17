@@ -11,7 +11,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-          I am a passionate web developer, dedicated to crafting innovative digital experiences that captivate and inspire. <br /> Let's bring your ideas to life!"
+          I am a passionate web developer, dedicated to crafting innovative digital experiences that captivate and inspire. <br /> Let's bring your ideas to life!
           </p>
           <div className="flex justify-center">
             <a
