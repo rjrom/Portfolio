@@ -75,7 +75,7 @@ export default function Contact() {
                 Hire Me
               </h2>
               <p className="leading-relaxed mb-5">
-              As a passionate and eager learner, I'm actively seeking opportunities to grow and develop my skills. I would be honored to contribute to <span className="whitespace-nowrap">your projects and collaborate with your team in pursuit of excellence.</span>
+              As a passionate and eager learner, I'm actively seeking opportunities to grow and develop my skills. I would be honored to contribute to your projects and collaborate with your team in pursuit of excellence
               </p>
               <div className="relative mb-4">
                 <label htmlFor="name" className="leading-7 text-sm text-gray-400">
